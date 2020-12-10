@@ -13,7 +13,7 @@ function setTime(){
 
     var secDegree = ((sec / 60) * 360 + 90);
     var minDegree = ((min / 60) * 360 + 90);
-    var hourDegree = ((hour / 60) * 360 + 90);
+    var hourDegree = ((hour / 12) * 360 + 90);
 
     secHand.style.transform = "rotate("+ secDegree +"deg)";
     minHand.style.transform = "rotate("+ minDegree +"deg)";
