@@ -4,6 +4,7 @@ function addOpen(){
    this.classList.toggle("open");
 }
 
+
 function addOpenActive(e){
     if(e.propertyName.includes("flex"))
         this.classList.toggle("open-active");
