@@ -1,6 +1,15 @@
 const panels = document.querySelectorAll(".panel");
 
 function addOpen(){
+   panels.forEach(panel => {
+       if(panel != this)
+       {
+           if(panel.classList.contains("open"))
+            { 
+                panel.classList.remove("open");
+            }
+       }
+   });
    this.classList.toggle("open");
 }
 
