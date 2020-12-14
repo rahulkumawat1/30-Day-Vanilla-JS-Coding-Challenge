@@ -297,7 +297,7 @@
         "population_proper": "1486053"
     }, 
     {
-        "city": "Far\u012bdabad", 
+        "city": "Faridabad", 
         "lat": "28.4333", 
         "lng": "77.3167", 
         "country": "India", 
@@ -396,12 +396,12 @@
         "population_proper": "1198491"
     }, 
     {
-        "city": "Sr\u012bnagar", 
+        "city": "Srinagar", 
         "lat": "34.0911", 
         "lng": "74.8061", 
         "country": "India", 
         "iso2": "IN", 
-        "admin_name": "Jammu and Kashm\u012br", 
+        "admin_name": "Jammu and Kashmir", 
         "capital": "admin", 
         "population": "1180570", 
         "population_proper": "1180570"
@@ -418,7 +418,7 @@
         "population_proper": "1132383"
     }, 
     {
-        "city": "Al\u012bgarh", 
+        "city": "Aligarh", 
         "lat": "27.8800", 
         "lng": "78.0800", 
         "country": "India", 
@@ -456,7 +456,7 @@
         "lng": "81.4333", 
         "country": "India", 
         "iso2": "IN", 
-        "admin_name": "Chhatt\u012bsgarh", 
+        "admin_name": "Chhattisgarh", 
         "capital": "", 
         "population": "1097000", 
         "population_proper": "1097000"
@@ -495,12 +495,12 @@
         "population_proper": "1048240"
     }, 
     {
-        "city": "Chand\u012bgarh", 
+        "city": "Chandigarh", 
         "lat": "30.7353", 
         "lng": "76.7911", 
         "country": "India", 
         "iso2": "IN", 
-        "admin_name": "Chand\u012bgarh", 
+        "admin_name": "Chandigarh", 
         "capital": "admin", 
         "population": "1026459", 
         "population_proper": "1026459"
@@ -522,7 +522,7 @@
         "lng": "81.6337", 
         "country": "India", 
         "iso2": "IN", 
-        "admin_name": "Chhatt\u012bsgarh", 
+        "admin_name": "Chhattisgarh", 
         "capital": "admin", 
         "population": "1010087", 
         "population_proper": "1010087"
@@ -935,7 +935,7 @@
         "population_proper": "435844"
     }, 
     {
-        "city": "B\u012bkaner", 
+        "city": "Bikaner", 
         "lat": "28.0181", 
         "lng": "73.3169", 
         "country": "India", 
@@ -1006,7 +1006,7 @@
         "lng": "74.8500", 
         "country": "India", 
         "iso2": "IN", 
-        "admin_name": "Jammu and Kashm\u012br", 
+        "admin_name": "Jammu and Kashmir", 
         "capital": "", 
         "population": "502197", 
         "population_proper": "502197"
@@ -1166,7 +1166,7 @@
         "population_proper": "410210"
     }, 
     {
-        "city": "S\u012bkar", 
+        "city": "Sikar", 
         "lat": "27.6119", 
         "lng": "75.1397", 
         "country": "India", 
@@ -1210,7 +1210,7 @@
         "population_proper": "392451"
     }, 
     {
-        "city": "Bh\u012blwara", 
+        "city": "Bhilwara", 
         "lat": "25.3500", 
         "lng": "74.6333", 
         "country": "India", 
@@ -1369,7 +1369,7 @@
         "lng": "82.0167", 
         "country": "India", 
         "iso2": "IN", 
-        "admin_name": "Chhatt\u012bsgarh", 
+        "admin_name": "Chhattisgarh", 
         "capital": "", 
         "population": "331030", 
         "population_proper": "331030"
@@ -1518,7 +1518,7 @@
         "population_proper": "307024"
     }, 
     {
-        "city": "F\u012brozabad", 
+        "city": "Firozabad", 
         "lat": "27.1500", 
         "lng": "78.3949", 
         "country": "India", 
@@ -1529,7 +1529,7 @@
         "population_proper": "306409"
     }, 
     {
-        "city": "B\u012bdar", 
+        "city": "Bidar", 
         "lat": "17.9229", 
         "lng": "77.5175", 
         "country": "India", 
@@ -1573,7 +1573,7 @@
         "population_proper": "293373"
     }, 
     {
-        "city": "Pan\u012bpat", 
+        "city": "Panipat", 
         "lat": "29.4004", 
         "lng": "76.9700", 
         "country": "India", 
@@ -1584,7 +1584,7 @@
         "population_proper": "292808"
     }, 
     {
-        "city": "Kar\u012bmnagar", 
+        "city": "Karimnagar", 
         "lat": "18.4333", 
         "lng": "79.1500", 
         "country": "India", 
@@ -1639,7 +1639,7 @@
         "population_proper": "197846"
     }, 
     {
-        "city": "\u0100\u012bzawl", 
+        "city": "\u0100izawl", 
         "lat": "23.7104", 
         "lng": "92.7200", 
         "country": "India", 
@@ -1688,7 +1688,7 @@
         "lng": "74.2800", 
         "country": "India", 
         "iso2": "IN", 
-        "admin_name": "Jammu and Kashm\u012br", 
+        "admin_name": "Jammu and Kashmir", 
         "capital": "", 
         "population": "269311", 
         "population_proper": "269311"
@@ -1699,7 +1699,7 @@
         "lng": "81.2800", 
         "country": "India", 
         "iso2": "IN", 
-        "admin_name": "Chhatt\u012bsgarh", 
+        "admin_name": "Chhattisgarh", 
         "capital": "", 
         "population": "268806", 
         "population_proper": "268806"
@@ -1782,7 +1782,7 @@
         "population_proper": "252008"
     }, 
     {
-        "city": "Son\u012bpat", 
+        "city": "Sonipat", 
         "lat": "28.9958", 
         "lng": "77.0114", 
         "country": "India", 
@@ -1925,7 +1925,7 @@
         "population_proper": "206575"
     }, 
     {
-        "city": "Ghand\u012bnagar", 
+        "city": "Ghandinagar", 
         "lat": "23.2200", 
         "lng": "72.6800", 
         "country": "India", 
@@ -1980,7 +1980,7 @@
         "population_proper": "100286"
     }, 
     {
-        "city": "Koh\u012bma", 
+        "city": "Kohima", 
         "lat": "25.6667", 
         "lng": "94.1194", 
         "country": "India", 
