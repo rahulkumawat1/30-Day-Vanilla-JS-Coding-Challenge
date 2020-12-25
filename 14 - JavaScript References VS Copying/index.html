@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS Reference vs copy</title>
+</head>
+<body>
+    <h1>have a look into console</h1>
+    <script>
+        let age = 100;
+        let age2 = age;
+        age2 = 90;
+        
+        let str1 = 'Rahul';
+        let str2 = str1;
+        str2 = 'kumawat';
+
+        const players = ['rahul','mohith','tushar','kj'];
+        const team = players;
+        team[0] = 'kumawat';
+
+        const team2 = players.slice();
+        team2[0] = 'rahul';
+
+        const team3 = [].concat(players);
+        team3[0] = 'rahul';
+
+        const team4 = [...players];
+        team4[0] = 'rahul';
+
+        const team5 = Array.from(players);
+        team5[0] = 'rahul';
+
+        const person = {
+            name: 'rahul',
+            age: 19
+        };
+
+        // const person1 = person;
+        // person1.number = 8;
+
+        const person1 = Object.assign({},person,{number: 7, age: 20});
+
+        const wes = {
+            name: 'Wes',
+            age: 100,
+            social: {
+                twitter: '@wesbos',
+                facebook: 'wesbos.developer'
+            }
+        };
+
+        const person2 = Object.assign({},wes);  //Only 1 level copy
+
+        const person3 = JSON.parse(JSON.stringify(wes));    //deep level copy
+    </script>
+</body>
+</html>
