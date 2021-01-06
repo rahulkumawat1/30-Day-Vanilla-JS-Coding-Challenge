@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebCam</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <div class="photobooth">
+        <div class="controls">
+            <button onclick="takePhoto()">Take Photo</button>
+            <div class="rgb">
+                <label for="">Red Min</label>
+                <input type="range" min="0" max="255" step="1" name="rmin">
+                <label for="">Red Max</label>
+                <input type="range" min="0" max="255" step="1" name="rmax">
+                <br>
+                <label for="">Green min</label>
+                <input type="range" min="0" max="255" step="1" name="gmin">
+                <label for="">Green max</label>
+                <input type="range" min="0" max="255" step="1" name="gmax">
+                <br>
+                <label for="">Blue min</label>
+                <input type="range" min="0" max="255" step="1" name="bmin">
+                <label for="">Blue max</label>
+                <input type="range" min="0" max="255" step="1" name="bmax">
+            </div>
+            <canvas class="photo"></canvas>
+            <video src="" class="player"></video>
+            <div class="strip"></div>
+        </div>
+
+        <audio src="./snap.mp3" class="snap"></audio>
+
+        <script src="./index.js"></script>
+</body>
+
+</html>
